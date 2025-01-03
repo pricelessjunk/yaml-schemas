@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "./schemas/topic.json": ["**/*.topic.yaml"]
+    }
+}
