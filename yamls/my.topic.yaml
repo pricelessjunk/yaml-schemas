@@ -1,0 +1,6 @@
+# Needed the yaml extension for vscode. And changes in the workspace .vscode/settings.json
+# Needed to add to first line. Else have to add to -> Settings | Languages & Frameworks | Schemas and DTDs | JSON Schema Mappings   or add to first line #$schema: ../schemas/topic.json
+
+person:
+  age: 33
+  email: john@email.com
